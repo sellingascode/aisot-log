@@ -1,0 +1,6 @@
+# C2SP tlog-policy (https://c2sp.org/tlog-policy) for the AI Source of Truth log.
+# A checkpoint is valid when the log key below signed it and the quorum co-signed it.
+# Only independent witnesses are listed. A witness run by the registry's operator never counts.
+log aisourceoftruth.com/log+3b162de5+ASW799lCqbFOP7rojZjZlbDqBarpu1gimAMGcPaf2t8r https://aisourceoftruth.com
+# No independent witness co-signs this log yet. The target quorum is 2.
+quorum none
