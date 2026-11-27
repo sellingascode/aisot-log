@@ -1,0 +1,9 @@
+{
+  "day": "2026-11-27",
+  "root_hash": "fc49becca0b570008a1bc091e1d18d925f4552a2dfa201f8c7c97d8efb1cca86",
+  "merkle_root": "3fa008b920d15dddb753f9f0a2d117f8bd03bacc31220d4ff824ce780fd8f27b",
+  "log_size": 104,
+  "prev_root": "66e991e23e0822643a32dc3733db48893bd16add0b46569021379efb0d0b951b",
+  "checkpoint": "aisourceoftruth.com/log\n104\nP6AIuSDRXd23U/nwotEX+L0DuswxIg1P+CTOeA/Y8ns=\n",
+  "committed_at": "2026-11-27T06:00:07Z"
+}
